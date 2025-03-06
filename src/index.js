@@ -5,7 +5,7 @@ import reportWebVitals from "./reportWebVitals"
 
 
 const messages = [
-  "Learn React ⚛️",
+  "Learn React Guys ⚛️",
   "Apply for jobs 💼",
   "Invest your new income 🤑",
 ];
